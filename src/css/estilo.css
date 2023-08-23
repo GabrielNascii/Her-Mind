@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(85, 236, 39);
+    font-family: 'Tajawal', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nomeEfoto {
+    text-align: center;
+}
+
+.imagem {
+    height: 300px;
+    border-radius: 5px;
+    margin: 25px 50px;
+    
+}
+
+.text {
+    font-size: 20px;
+}
+
+
+.parte {
+    text-align: center;
+    font-size: 20px;
+}
+
+.redes{
+    text-align: center;
+}
+
+.horizontal-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .rede {
+    height: 30px;
+    align-items: center;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    margin-right: 10px;
+  }
